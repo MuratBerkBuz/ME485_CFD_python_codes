@@ -1,4 +1,2 @@
-Homework 1
-
-
-In this homework you are going to implement various garadient computation techniques in mefvm.  
+These are the codes that we have used in ME485 CFD lessons
+created by Ali Karakuş 
